@@ -8,6 +8,11 @@ header {
     width: 100%;
 }
 
+header img{
+    max-width: 12%;
+    max-height: 20%;
+}
+
 main {
     width: 100%;
     display: grid;
