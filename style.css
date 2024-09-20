@@ -28,8 +28,7 @@ main div {
     place-content: center;
     color: white;
     font-size: 50px;
-    border:
-        2px solid hsl(210deg 8% 50%);
+
 }
 
 div img{
