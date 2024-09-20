@@ -19,8 +19,8 @@ main {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(5, 1fr);
-    padding: 10px;
-    gap: 10px;
+    padding: 2px;
+    gap: 2px;
 }
 
 main div {
