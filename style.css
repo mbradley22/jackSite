@@ -28,7 +28,7 @@ main div {
     place-content: center;
     color: white;
     font-size: 50px;
-
+    border: rgb(43, 22, 75);
 }
 
 div img{
